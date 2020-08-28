@@ -1,16 +1,22 @@
-### Hi there 👋
+# ![Credits: @Rushibun](banner.png)
+Hi, I'm Nyein Chan "Ninja" (he/him/18)—a senior at [MakeSchool](https://www.makeschool.com/). Working to pursue both DevOps Engineer and Teaching career. I have dreams for creating a brighter future of educational equity via technology. I live in Oakland, CA and am an East Bay native.
 
-<!--
-**NinjaAung/NinjaAung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My values
+💖 Safety and trust<br>
+🌟 Expression as authentic self<br>
+🚀 Elevate the underrepresented
 
-Here are some ideas to get you started:
+## How I work
+I'm motivated by own curiosity, everything new and excited related from secuirty to learning how to teach a concept easily. I'm happy to pick up anything new and explore especially with a buddy!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- Twitter: https://twitter.com/Ninjer27
+- Linkdln: https://www.linkedin.com/in/ninjaaung/
+- Personal site: Coming Soon 
+
+## Oakland orgs to donate to #BLM
+- [People's Breakfast Oakland](https://www.hellablackpod.com/pbo)
+- [Black Earth Farms](https://www.blackearthfarms.com/)
+- [Anti Police Terror Project](https://www.antipoliceterrorproject.org/)
+- [Campaing Zero](https://www.joincampaignzero.org/#vision)
+- [Impact Justice](https://www.youtube.com/watch?v=ailY-ulym8E)
