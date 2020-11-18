@@ -1,4 +1,4 @@
-# ![Credits: @Rushibun](https://github.com/NinjaAung/NinjaAung/blob/master/banner.png)
+# ![Credits: @Rushibun](https://raw.githubusercontent.com/NinjaAung/NinjaAung/master/banner.png)
 Hi, I'm Nyein Chan "Ninja" (he/him/18)—a senior at [MakeSchool](https://www.makeschool.com/). Working to pursue both DevOps Engineer and Teaching career. I have dreams for creating a brighter future of educational equity via technology. I live in Oakland, CA and am an East Bay native.
 
 ## My values
