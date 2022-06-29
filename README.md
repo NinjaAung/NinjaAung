@@ -1,6 +1,4 @@
 # ![Credits: @Rushibun](https://raw.githubusercontent.com/NinjaAung/NinjaAung/master/banner.png)
-Hi, I'm Nyein Chan "Ninja" (he/him/18)—a senior at [MakeSchool](https://www.makeschool.com/). Working to pursue both DevOps Engineer and Teaching career. I have dreams for creating a brighter future of educational equity via technology. I live in Oakland, CA and am an East Bay native.
-
 Hey, I am Nyein Chan Aung (He/they/20) a graduate of Dominican University in B.S Applied Computer Science. I've been learning to code and develop for 5+ years and gained a lot of industry experince as a contractor! I'm actively looking for full-time position and iternships!
 
 * 🌍  I'm based in Oakland
@@ -31,6 +29,7 @@ Hey, I am Nyein Chan Aung (He/they/20) a graduate of Dominican University in B.S
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/@ninja-aung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/NinjaAung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/NinjaAung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/ninja-aung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
