@@ -55,4 +55,8 @@ Automation:
 - [NERE](https://github.com/NinjaAung/Nere): Shell + Go + brew project to quick start github repo construction, so you'll never have to worry about losing everything
 - [SuperSite Scrapper](https://github.com/NinjaAung/SuperSite-Scrapper): Go (Channels and Concurreny) + Sheets project to target online business that need maintence or new developers
 
+Teaching: 
+- [Trees, Trees and More Trees](https://medium.com/analytics-vidhya/trees-trees-and-more-trees-4d31c62b8d71)
+- [Balacing, Balacing and More Balacing](https://medium.com/@ninja-aung/balancing-balancing-and-more-balancing-trees-9670fe4cc875)
+
 
