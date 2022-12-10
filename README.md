@@ -1,4 +1,4 @@
-# ![banner](https://user-images.githubusercontent.com/37085146/206828945-a06945af-7b14-4ce0-b796-14f9fba1dac6.png)
+# ![banner](https://user-images.githubusercontent.com/37085146/206828981-c5508d1a-3d39-4985-a2c8-070b268acf55.jpg)
 Hi, I’m Nyein Chan wecome to my page! If you're here to check me out, you'll soon to come to know me as Ninja this could allude to my lightning speed ability to learn and adapt to new environments while speedrunning my bachelors in CS, or better yet when I’m developing solutions on the keyboard. 
 
 * 🌍  I'm based in Oakland
@@ -54,4 +54,5 @@ Automation:
 - [Pokemeow](https://github.com/NinjaAung/Pokemeow): Selenium + Sheets project to help servers to track pokemon member catches for the top 5 clans of discord Pokememow
 - [NERE](https://github.com/NinjaAung/Nere): Shell + Go + brew project to quick start github repo construction, so you'll never have to worry about losing everything
 - [SuperSite Scrapper](https://github.com/NinjaAung/SuperSite-Scrapper): Go (Channels and Concurreny) + Sheets project to target online business that need maintence or new developers
+
 
